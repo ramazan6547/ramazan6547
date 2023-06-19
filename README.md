@@ -15,7 +15,9 @@ Here are some ideas to get you started:
       <li>📫 How to reach me : rmzncck65@gmail.com </li>
     </ul>
    </div>
-  <img width="150px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
+  <div>
+   <img width="150px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
+  </div>
 
 </div>
 
