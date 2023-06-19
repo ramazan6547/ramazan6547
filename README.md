@@ -4,8 +4,12 @@
 **ramazan6547/ramazan6547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-<div style="display:flex; ">
+<style>
+ .flex{
+  display:flex;
+ }
+</style>
+<div class="flex">
  
    <div>
      <ul>
