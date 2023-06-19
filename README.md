@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     </ul>
    </div>
   <div>
-   <img align="right" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
+   <img float="right" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
   </div>
 
 </div>
