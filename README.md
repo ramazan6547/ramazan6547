@@ -1,7 +1,7 @@
  Hi there 👋
 
 
-   <img align="right" width="350px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
+   <img align="right" width="300px" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
       
       
       
