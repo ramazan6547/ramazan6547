@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me : rmzncck65@gmail.com 
 </div>
   <div>
-    ![A test image](https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png)
-
+   <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
   </div>
 </div>
 
