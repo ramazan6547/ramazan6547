@@ -6,14 +6,18 @@
 Here are some ideas to get you started:
 
 <div style="display : flex; ">
-  <div>
-  - 🔭 I’m Frontend Developer
-- 🌱 I’m currently learning Django Framework
-- 💬 Ask me about anything
-- 📫 How to reach me : rmzncck65@gmail.com 
-</div>
-  <div>
+ 
+    <ul>
+      <li>- 🔭 I’m Frontend Developer</li>
+      <li>- 🌱 I’m currently learning Django Framework</li>
+      <li> 💬 Ask me about anything</li>
+      <li>📫 How to reach me : rmzncck65@gmail.com </li>
+    </ul>
+  
+
+
+
    <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
-  </div>
+
 </div>
 
