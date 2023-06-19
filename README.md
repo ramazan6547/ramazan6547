@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<div style="display : flex; ">
+<div style="display: flex; ">
  
     <ul>
       <li>- 🔭 I’m Frontend Developer</li>
