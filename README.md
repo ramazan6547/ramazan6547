@@ -4,11 +4,8 @@
 **ramazan6547/ramazan6547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<style>
- .flex{
-  display:flex;
- }
-</style>
+
+
 <div class="flex">
  
    <div>
@@ -20,7 +17,7 @@ Here are some ideas to get you started:
     </ul>
    </div>
   <div>
-   <img src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
+   <img align="right" src="https://www.interviewbit.com/blog/wp-content/uploads/2021/06/What-is-Full-Stack-Developer.png">
   </div>
 
 </div>
