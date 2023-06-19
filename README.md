@@ -8,8 +8,11 @@
       
       
       🔭 I’m Frontend Developer
+      
       🌱 I’m currently learning Django Framework
+      
       💬 Ask me about anything
+      
       📫 How to reach me: rmzncck65@gmail.com
    
    
